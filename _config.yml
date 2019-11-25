@@ -9,7 +9,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://israelomar.github.io/daeckoo/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Rockzeck # replace with your_twitter_username or comment to remove link from footer
 github_username:  Israelomar # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+#instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 social:
   name: daecko
   links:
@@ -17,7 +17,7 @@ social:
     - https://www.facebook.com/Dzenler
     
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: blogOmar # to enable comments replace with your_disqus_shortname
 
 # Build settings
 markdown: kramdown
