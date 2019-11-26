@@ -2,6 +2,8 @@
 layout: post
 title: Calma
 featured-img: sleek
+categories: [blog, familia]
+tags: [Momentos]
 ---
 
 ## Teniendo Calma

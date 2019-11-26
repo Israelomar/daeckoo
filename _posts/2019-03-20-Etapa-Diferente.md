@@ -2,6 +2,8 @@
 layout: post
 title: "Etapa Diferente"
 featured-img: shane-rounce-205187
+categories: [blog, familia]
+tags: [familia, etapa]
 ---
 
 ### Cuidándote a ti mismo
