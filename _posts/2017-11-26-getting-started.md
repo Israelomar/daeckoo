@@ -1,73 +1,21 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: Calma
 featured-img: sleek
 ---
 
-## Getting started
+## Teniendo Calma
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published in the webpage instantly.
+ En algunas ocasiones este titulo es muy dificil de llevar a cabo y es  que ciertas situaciones llegan a ser tan agobiantes que no podemos ver  mas alla de la presiòn que nos rodea determinada situaciòn.
 
-1. Just download the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project.
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+ Dependiendo del tipo de persona llegara a incomodarnos en mayor o menor  medida, sin embargo creo que todos en algun momento hemos experimentado  un episodio asi, donde crees ya no tener fuerzas para sobreponerte, o  donde has perdido las fuerzas para seguir y solo quieres dejarte caer.
 
-## Writing content
+ Las formas para poder sobrellevar esto varia dependiendo de la situacion y del tipo de persona, en lo personal cuando hay ocasiones que me llego a sentir asi, me gusta recordar buenos momentos, recordar personas que  aprecio o que en algun momento han dejado huella en mi vida.
 
-### Docs
+ A veces creemos que somos robots o maquinas, y que siempre debemos de  estar funcionando aun por encima de nuestras angustias o presiones, pero cabe destacar que tambien debemos de ver por nosotros mismos, pues es  necesario estar bien para poder brindar lo mejor de nosotros en cada  area de nuestra vida.
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+ Distraerse, viajar, leer, dormir etc. Son algunas de las herramientas  que podemos usar para recuperar nuestra tranquilidad, en ocasiones basta con tener un tiempo personal, puede ser en realidad un lapso corto y  eso serà suficiente para nuevamente recargar la energia perdida,  despejar la mente y empezar de nuevo. Al final de cuentas la vida esta  hecha de buenos y malos momentos, pero depende de nosotros afrontarlo de la mejor manera.
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+ Hay un pasaje en la biblia que dice que cada dia tiene su propio afan, y es muy cierto, lo que paso ayer ya lo vivimos, el mañana no lo sabemos  pero el presente es el que debemos sobrellevar.
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
-
-Hello World!
-```
-
-**2.** Add the pagename to `_pages/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The home page is located under `index.md` file. You can change the content or design completely different welcome page for your taste.
-
-In order to add a new page, create a new html or markdown file under root directory and link it in `_includes/header.html`.
-
-### Images TODO
-
-Introduce gulp optimization
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Thumb | 535px | 1070px
-sm |Post Thumb | 500px| 1000px
-md |Post Thumb | 329.375px | 658.75px
-lg |Post Thumb | 445.625px | 891.25px
-xl |Post Thumb | 353.125px | 706.25px
-
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Hero | 535px | 1070px
-sm |Post Hero | 500px| 1000px
-md |Post Hero | 329.375px | 658.75px
-lg |Post Hero | 445.625px | 891.25px
-xl |Post Hero | 353.125px | 706.25px
-
-Happy hacking!
+ "Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su afán. Basta a cada día su propio mal." 
